@@ -17,8 +17,25 @@ And from these shapes, so much expression, so much freedom:
 ![An example, by Ed Emberley](https://collegeman.github.io/sketch-emberley/example.png)
 
 ## Let's get sketching!
-In my professiona life as a full stack developer, [Sketch](https://www.sketch.com/) is one of my favorite tools. It allows me to prototype ideas at a range of resolutions. It also allows me to create art for fun.
+In my professiona life as a full stack developer, [Sketch](https://www.sketch.com/) is one of my favorite tools. It allows me to prototype ideas in a range of resolutions. 
+
+It also allows me to create art for fun.
 
 In [the template](https://collegeman.github.io/sketch-emberley/emberley.sketch) you'll find Emberley's 4 basic shapes, as well as some extra ones I threw in for good measure:
 
 ![Tools](https://collegeman.github.io/sketch-emberley/tools.png)
+
+I added the rectangular shapes because sometimes it's easier to just clone than resize. I added the thinner, line-like shapes because lines don't scale.
+
+You can make your own shapes! Just layer up the basic ones, and then use the **Combine** tools (Union, Subtract, Intersect, and Difference) to merge the shapes together.
+
+You can either combine the basic shapes as symbols and then use **Tinting** to color them, or detach the shapes from the symbols and color and style them any way you want.
+
+## Create and share!
+I don't own any of the rights to Ed Emberley's work. I've used screenshots of some of the pages of his books in this readme, and the image of "The Fox" below is a recreation of an image he published in the book *Picture Pie*.
+
+I do own the Sketch file I created today, and you can use it to create any artwork you want to in the style of Ed Emberley. It is licensed ot you under the Creative Commons Attribution 4.0. 
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+![The Fox](https://collegeman.github.io/sketch-emberley/fox.png)
