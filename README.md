@@ -32,9 +32,9 @@ You can make your own shapes! Just layer up the basic ones, and then use the **C
 You can either combine the basic shapes as symbols and then use **Tinting** to color them, or detach the shapes from the symbols and color and style them any way you want.
 
 ## Create and share!
-I don't own any of the rights to Ed Emberley's work. I've used screenshots of some of the pages of his books in this readme, and the image of "The Fox" below is a recreation of an image he published in the book *Picture Pie*.
+I don't own any of the rights to Ed Emberley's work. I've used screenshots of some of the pages of his books in this readme without permission. The image of "The Fox" below is a recreation of an image he published in the book *Picture Pie*, created without permission. There will be more derivatives!
 
-I do own the Sketch file I created today, and you can use it to create any artwork you want to in the style of Ed Emberley. It is licensed ot you under the Creative Commons Attribution 4.0. 
+I do own the Sketch file I created today, but you can use it to create any artwork you want to in the style of Ed Emberley. It is licensed to you under the Creative Commons Attribution 4.0. 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
