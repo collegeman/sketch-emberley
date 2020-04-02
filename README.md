@@ -17,7 +17,7 @@ And from these shapes, so much expression, so much freedom:
 ![An example, by Ed Emberley](https://collegeman.github.io/sketch-emberley/example.png)
 
 ## Let's get sketching!
-In my professiona life as a full stack developer, [Sketch](https://www.sketch.com/) is one of my favorite tools. It allows me to prototype ideas in a range of resolutions. 
+In my professional life as a full stack developer, [Sketch](https://www.sketch.com/) is one of my favorite tools. It allows me to prototype ideas in a range of resolutions. 
 
 It also allows me to create art for fun.
 
